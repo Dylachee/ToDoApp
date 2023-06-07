@@ -6,3 +6,5 @@ drf-yasg
 django-filter
 django-cors-headers
 django
+requests
+aiogram
